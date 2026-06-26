@@ -9,10 +9,10 @@ Built entirely in Google Sheets using pivot tables, QUERY formulas,
 and data visualization.
 
 ## Live Dashboard
-[Click here to view the dashboard](YOUR GOOGLE SHEET LINK HERE)
+(https://docs.google.com/spreadsheets/d/16dEqTSHoChriUVtgrIxH53vjSPjfvgvZ8iErDugtAhE/edit?gid=395516249#gid=395516249)
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+C:\Users\baska\Desktop\Github\Dashboard.png
 
 ## Key Business Insights
 1. High discounts (>40%) generate -108% profit margin — the 
